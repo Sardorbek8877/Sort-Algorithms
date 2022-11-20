@@ -168,7 +168,8 @@ public class LectureWithSortAlgorithms {
     public void isSorted(){
         for (int i = 0; i<firstUnused-1; i++){
             if (students[i].hasGreaterNumber(students[i+1])){
-                throw new RuntimeException("sort violation");
+                throw new RuntimeException("sort violation");  // test git uchun
+                // werfuhefoiuvbhqhovbqiovvv
             }
         }
     }
