@@ -19,6 +19,6 @@ public class InsertionSortTest {
         System.out.println("Sorted by name");
         dap1.insertionSortByName();
         dap1.show();
-        System.out.println();  // comments
+        System.out.println();
     }
 }
